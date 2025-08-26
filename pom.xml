@@ -95,7 +95,7 @@
 	<distributionManagement>
 		<repository>
 			<id>spring_boot_maven_releases</id>
-			<url>http:/172.27.102.245:8081/repository/spring_boot_maven_releases/</url>
+			<url>http://172.27.102.245:8081/repository/spring_boot_maven_releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>spring_boot_maven_snapshots</id>
