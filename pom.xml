@@ -26,7 +26,9 @@
         <sonar.projectKey>spring-boot-mongo</sonar.projectKey>
         <sonar.projectName>Spring Boot Mongo Project</sonar.projectName>
         <sonar.host.url>http://172.27.102.245:9001/</sonar.host.url>
-        <sonar.login>${sonar.token}</sonar.login>
+       	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+	<sonar.qualitygate.wait>true</sonar.qualitygate.wait>
     </properties>
 
     <distributionManagement>
