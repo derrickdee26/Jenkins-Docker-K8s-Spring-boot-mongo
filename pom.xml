@@ -26,7 +26,7 @@
         <sonar.projectKey>spring-boot-mongo</sonar.projectKey>
         <sonar.projectName>Spring Boot Mongo Project</sonar.projectName>
         <sonar.host.url>http://172.27.102.245:9001/</sonar.host.url>
-        <sonar.login>${sonar_token_pipeline}</sonar.login>
+        <sonar.login>${sonar.token}</sonar.login>
     </properties>
 
     <distributionManagement>
