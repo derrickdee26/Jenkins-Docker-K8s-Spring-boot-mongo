@@ -1,0 +1,19 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                              https://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+  <servers>
+    <server>
+      <id>spring_boot_maven_releases</id>
+      <username>admin</username>
+      <password>Online1234@</password>
+    </server>
+    <server>
+      <id>spring_boot_maven_snapshots</id>
+      <username>admin</username>
+      <password>Online1234@</password>
+    </server>
+  </servers>
+
+</settings>
