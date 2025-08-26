@@ -4,12 +4,12 @@
         https://maven.apache.org/xsd/settings-1.0.0.xsd">
   <servers>
     <server>
-      <id>spring_boot_maven_releases</id>
+      <id>spring_boot_maven_release</id>
       <username>admin</username>
       <password>obiking1010</password>
     </server>
     <server>
-      <id>spring_boot_maven_snapshots</id>
+      <id>spring_boot_maven_snapshot</id>
       <username>admin</username>
       <password>obiking1010</password>
     </server>
